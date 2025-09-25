@@ -12,15 +12,15 @@ updating, and deleting records in a Student Management database.
 ├─ scripts/
 │ └─ student_management.sql 
 ├─ screenshots/ # Output screenshots
-│ ├─ 1_create_table_Courses.png
-│ ├─ 2_insert_data_Courses.png
-│ ├─ 3_select_all_Courses.png
-│ ├─ 4_create_table_Students.png
-│ ├─ 5_insert_data_Students.png
-│ ├─ 6_select_all_students.png
-│ ├─ 7_select_join_Query.png
-│ ├─ 8_update_Query.png
-│ └─ 9_delete_Query.png
+│ ├─ 1_Create_table_Courses.png
+│ ├─ 2_Insert_data_Courses.png
+│ ├─ 3_Select_all_Courses.png
+│ ├─ 4_Create_table_Students.png
+│ ├─ 5_Insert_data_Students.png
+│ ├─ 6_Select_all_students.png
+│ ├─ 7_Select_join_Query.png
+│ ├─ 8_Update_Query.png
+│ └─ 9_Delete_Query.png
 └─ README.md ```
 
 
